@@ -1,0 +1,8 @@
+TELEGRAM_TOKEN = "843084122:AAGrXWN8j0-Kjw1xV8mkVakMS1Y3MroJdUY"
+TIME_SLEEP_IN_LOOP = 1  # 200ms
+
+DATABASE = "tool_twitter"
+HOST = "localhost"
+USERNAME = "root"
+PASSWORD = "LeThanhpn123!"
+POOL_SIZE = 5
